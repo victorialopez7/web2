@@ -1,0 +1,43 @@
+cuerpo{
+    color de fondo: rosa;
+fondo: -webkit-linear-gradient (a la derecha, #348AC7, #7474BF);
+fondo: gradiente lineal (a la derecha, #348AC7, #7474BF);
+
+    familia de fuentes: Times New Roman;
+}
+.contenedor{s
+    ancho: 100%;
+    pantalla: flexible;
+    ancho máximo: 1100px;
+    alinear contenido: centro;
+
+}
+.tarjeta{
+    ancho: 100%;
+    margen: 20px;
+    radio del borde: 6px;
+    desbordamiento: oculto;
+    sombra de cuadro: 0px, 1px, 10px, rgba(0,0,0,0,2);
+    cursor: predeterminado;
+    transición: todos los 4000 ms son fáciles;
+    borde: 20px;
+        
+}
+.tarjeta:desplazar{
+    sombra de cuadro: 5px, 5px, 20px, rgba(0,0,0,0,8);
+    transformar: traducir (-3%);
+}
+img{
+    ancho: 100%;
+    altura: 50%;
+}
+.btn{
+    decoración de texto: ninguna;
+    pantalla: bloque en línea;
+    relleno: 10px;
+    margen superior: 10px;
+    color blanco;
+    borde: 1px solic #009900;
+    radio del borde: 4px;
+    transición: todos los 400 ms de facilidad;
+}

@@ -1,0 +1,57 @@
+body{
+    
+    background-image: url(fondoys.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.row{
+    width: 80%;
+    height: 500px ;
+    margin: 5%;
+     padding-left: 10%;
+    border-radius: 10px;
+    padding-bottom: 10%;
+    
+   
+   
+}
+
+.col-4{
+     width: 80%;
+    height: 300px ;
+    margin: 5%;
+    margin-left: 105px;
+  
+}
+
+
+h1{
+ font-family: "Lucida Calligraphy";
+    font-size: 7;
+    color: #ffffff;
+}
+
+button a{
+    text-decoration: none;
+    color: hotpink;
+}
+
+
+a{
+   text-decoration: none; 
+    
+    
+}
+.list-group{
+    width: 450px;
+    height: 200px;
+    margin-left: 450px;
+   
+}
+.yel{
+padding-left: 20px;
+    width: 60%;
+    height: 400px;
+    margin: 10px;
+}
