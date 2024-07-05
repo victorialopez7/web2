@@ -1,0 +1,47 @@
+.contenedor{
+    
+   
+    ancho: 60%;s
+    altura: 500 px;
+    parte superior acolchada: 15%;
+    
+}
+
+
+.foto: flotar {
+    transformar: traducirY(-3%);
+}
+.foto{
+    
+   relleno derecho: 5%;
+    ancho: 240px;
+    
+}
+.foto{
+    flotar derecho;
+    relleno: 5%;
+    relleno superior: 2pxs;
+   
+}
+
+
+
+.letra{
+    flotador izquierdo;
+    altura: 200 píxeles;
+    ancho: 20%;
+    relleno: 3%;
+    relleno superior: 0px;
+}
+
+
+.nav{
+    ancho: 100%;
+    altura: 100 píxeles;
+    color de fondo: aguamarina;
+}
+
+
+botón a{
+    decoración de texto: ninguna;
+}
