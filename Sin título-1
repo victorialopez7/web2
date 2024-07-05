@@ -1,0 +1,80 @@
+<body>
+   <div>
+     <div class="latter"></div>   
+     <center><h1>Instituto Profesor  Armando Martínez</h1></center></div> 
+
+   <center><img src="logo2.png" alt=""  width="100" height="100"></center> 
+  </div>
+  <br>
+   <br>center>
+  <ul class="nav">
+  <li class="nav-item">
+ <div class="dropdown">
+ <center> <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Historia
+  </button>
+  <center><ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="armandohis.html">Armando Martínez</a></li>
+    <li><a class="dropdown-item" href="fundacion.html">Fundación</a></li>
+  </ul><br><br>
+      <center>
+  <ul class="nav">
+  <li class="nav-item">
+ <div class="dropdown">
+ <center> <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Áreas
+  </button>
+  <center><ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="maestrosar.html">Áreas</a></li>
+  </ul><br><br>
+      <center>
+  <ul class="nav">
+  <li class="nav-item">
+ <div class="dropdown">
+ <center> <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Plan de matricula 
+  </button>
+  <center><ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="armandohis.html">Armando Martínez</a></li>
+    <li><a class="dropdown-item" href="fundacion.html">Fundación</a></li>
+  </ul>
+  
+  
+  
+  
+  
+  
+  
+     <br>
+  <div class="row">
+  <div class="col-sm-6 mb-3 mb-sm-0">
+    <div class="card">
+      <div class="card-body">   <center><h1>Misión</h1></center>
+       
+        <p >Instituto Armando Martínez, es una Institución educativa del nivel medio pionero, responsable de formar jóvenes en el área, Ciclo común de Cultura Bachilleres en Ciencias y Letras, Administración de Empresas y Técnicos en Computación. Ofreciendo una educación de calidad, en un clima de respeto, disciplina y compañerismo, con el fin de lograr en los estudiantes valores éticos, morales, espirituales actitudes positivas, capacidad de análisis, educación actitud y critica y competencias, para que puedan adaptarse a la época de cambios que exige la sociedad. </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body"><center><h1>Visión</h1></center>
+       
+        
+        <p >Para el 2026 El Instituto Armando Martínez espera contar con un edificio propio con todas las condiciones necesarias para brindar una educación de calidad implementando el taller industrial, laboratorio Ciencias Naturales, Computación siendo una Institución con tecnología incorporada, con el personal dinámico, unido, creativo y con disposición para el trabajo, de donde egresan alumnos líderes, con una excelencia de calidad educativa, que les permite enfrentar los retos que la sociedad demanda.</p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+   <div class="elegant-frame"> <center><h1>Misión</h1></center>
+        <p>Instituto Armando Martínez, es una Institución educativa del nivel medio pionero, responsable de formar jóvenes en el área, Ciclo común de Cultura Bachilleres en Ciencias y Letras, Administración de Empresas y Técnicos en Computación. Ofreciendo una educación de calidad, en un clima de respeto, disciplina y compañerismo, con el fin de lograr en los estudiantes valores éticos, morales, espirituales actitudes positivas, capacidad de análisis, educación actitud y critica y competencias, para que puedan adaptarse a la época de cambios que exige la sociedad.</p>
+    </div>
+    <br>
+    <br>
+    <div class="elegant-frame"> <center><h1>Visión</h1></center>
+        <p>Para el 2026 El Instituto Armando Martínez espera contar con un edificio propio con todas las condiciones necesarias para brindar una educación de calidad implementando el taller industrial, laboratorio Ciencias Naturales, Computación siendo una Institución con tecnología incorporada, con el personal dinámico, unido, creativo y con disposición para el trabajo, de donde egresan alumnos líderes, con una excelencia de calidad educativa, que les permite enfrentar los retos que la sociedad demanda.</p>
+    </div>
+  

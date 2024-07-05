@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+    background-color: #f0f0f0;
+}
+
+.elegant-text {
+    text-align: center;
+    color: #333;
+}
+
+.elegant-text h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.elegant-text p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
